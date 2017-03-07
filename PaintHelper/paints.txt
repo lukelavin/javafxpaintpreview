@@ -1,0 +1,147 @@
+ALICEBLUEThe color alice blue with an RGB value of #F0F8FF.
+ANTIQUEWHITEThe color antique white with an RGB value of #FAEBD7.
+AQUAThe color aqua with an RGB value of #00FFFF.
+AQUAMARINEThe color aquamarine with an RGB value of #7FFFD4.
+AZUREThe color azure with an RGB value of #F0FFFF.
+BEIGEThe color beige with an RGB value of #F5F5DC.
+BISQUEThe color bisque with an RGB value of #FFE4C4.
+BLACKThe color black with an RGB value of #000000.
+BLANCHEDALMONDThe color blanched almond with an RGB value of #FFEBCD.
+BLUEThe color blue with an RGB value of #0000FF.
+BLUEVIOLETThe color blue violet with an RGB value of #8A2BE2.
+BROWNThe color brown with an RGB value of #A52A2A.
+BURLYWOODThe color burly wood with an RGB value of #DEB887.
+CADETBLUEThe color cadet blue with an RGB value of #5F9EA0.
+CHARTREUSEThe color chartreuse with an RGB value of #7FFF00.
+CHOCOLATEThe color chocolate with an RGB value of #D2691E.
+CORALThe color coral with an RGB value of #FF7F50.
+CORNFLOWERBLUEThe color cornflower blue with an RGB value of #6495ED.
+CORNSILKThe color cornsilk with an RGB value of #FFF8DC.
+CRIMSONThe color crimson with an RGB value of #DC143C.
+CYANThe color cyan with an RGB value of #00FFFF.
+DARKBLUEThe color dark blue with an RGB value of #00008B.
+DARKCYANThe color dark cyan with an RGB value of #008B8B.
+DARKGOLDENRODThe color dark goldenrod with an RGB value of #B8860B.
+DARKGRAYThe color dark gray with an RGB value of #A9A9A9.
+DARKGREENThe color dark green with an RGB value of #006400.
+DARKGREYThe color dark grey with an RGB value of #A9A9A9.
+DARKKHAKIThe color dark khaki with an RGB value of #BDB76B.
+DARKMAGENTAThe color dark magenta with an RGB value of #8B008B.
+DARKOLIVEGREENThe color dark olive green with an RGB value of #556B2F.
+DARKORANGEThe color dark orange with an RGB value of #FF8C00.
+DARKORCHIDThe color dark orchid with an RGB value of #9932CC.
+DARKREDThe color dark red with an RGB value of #8B0000.
+DARKSALMONThe color dark salmon with an RGB value of #E9967A.
+DARKSEAGREENThe color dark sea green with an RGB value of #8FBC8F.
+DARKSLATEBLUEThe color dark slate blue with an RGB value of #483D8B.
+DARKSLATEGRAYThe color dark slate gray with an RGB value of #2F4F4F.
+DARKSLATEGREYThe color dark slate grey with an RGB value of #2F4F4F.
+DARKTURQUOISEThe color dark turquoise with an RGB value of #00CED1.
+DARKVIOLETThe color dark violet with an RGB value of #9400D3.
+DEEPPINKThe color deep pink with an RGB value of #FF1493.
+DEEPSKYBLUEThe color deep sky blue with an RGB value of #00BFFF.
+DIMGRAYThe color dim gray with an RGB value of #696969.
+DIMGREYThe color dim grey with an RGB value of #696969.
+DODGERBLUEThe color dodger blue with an RGB value of #1E90FF.
+FIREBRICKThe color firebrick with an RGB value of #B22222.
+FLORALWHITEThe color floral white with an RGB value of #FFFAF0.
+FORESTGREENThe color forest green with an RGB value of #228B22.
+FUCHSIAThe color fuchsia with an RGB value of #FF00FF.
+GAINSBOROThe color gainsboro with an RGB value of #DCDCDC.
+GHOSTWHITEThe color ghost white with an RGB value of #F8F8FF.
+GOLDThe color gold with an RGB value of #FFD700.
+GOLDENRODThe color goldenrod with an RGB value of #DAA520.
+GRAYThe color gray with an RGB value of #808080.
+GREENThe color green with an RGB value of #008000.
+GREENYELLOWThe color green yellow with an RGB value of #ADFF2F.
+GREYThe color grey with an RGB value of #808080.
+HONEYDEWThe color honeydew with an RGB value of #F0FFF0.
+HOTPINKThe color hot pink with an RGB value of #FF69B4.
+INDIANREDThe color indian red with an RGB value of #CD5C5C.
+INDIGOThe color indigo with an RGB value of #4B0082.
+IVORYThe color ivory with an RGB value of #FFFFF0.
+KHAKIThe color khaki with an RGB value of #F0E68C.
+LAVENDERThe color lavender with an RGB value of #E6E6FA.
+LAVENDERBLUSHThe color lavender blush with an RGB value of #FFF0F5.
+LAWNGREENThe color lawn green with an RGB value of #7CFC00.
+LEMONCHIFFONThe color lemon chiffon with an RGB value of #FFFACD.
+LIGHTBLUEThe color light blue with an RGB value of #ADD8E6.
+LIGHTCORALThe color light coral with an RGB value of #F08080.
+LIGHTCYANThe color light cyan with an RGB value of #E0FFFF.
+LIGHTGOLDENRODYELLOWThe color light goldenrod yellow with an RGB value of #FAFAD2.
+LIGHTGRAYThe color light gray with an RGB value of #D3D3D3.
+LIGHTGREENThe color light green with an RGB value of #90EE90.
+LIGHTGREYThe color light grey with an RGB value of #D3D3D3.
+LIGHTPINKThe color light pink with an RGB value of #FFB6C1.
+LIGHTSALMONThe color light salmon with an RGB value of #FFA07A.
+LIGHTSEAGREENThe color light sea green with an RGB value of #20B2AA.
+LIGHTSKYBLUEThe color light sky blue with an RGB value of #87CEFA.
+LIGHTSLATEGRAYThe color light slate gray with an RGB value of #778899.
+LIGHTSLATEGREYThe color light slate grey with an RGB value of #778899.
+LIGHTSTEELBLUEThe color light steel blue with an RGB value of #B0C4DE.
+LIGHTYELLOWThe color light yellow with an RGB value of #FFFFE0.
+LIMEThe color lime with an RGB value of #00FF00.
+LIMEGREENThe color lime green with an RGB value of #32CD32.
+LINENThe color linen with an RGB value of #FAF0E6.
+MAGENTAThe color magenta with an RGB value of #FF00FF.
+MAROONThe color maroon with an RGB value of #800000.
+MEDIUMAQUAMARINEThe color medium aquamarine with an RGB value of #66CDAA.
+MEDIUMBLUEThe color medium blue with an RGB value of #0000CD.
+MEDIUMORCHIDThe color medium orchid with an RGB value of #BA55D3.
+MEDIUMPURPLEThe color medium purple with an RGB value of #9370DB.
+MEDIUMSEAGREENThe color medium sea green with an RGB value of #3CB371.
+MEDIUMSLATEBLUEThe color medium slate blue with an RGB value of #7B68EE.
+MEDIUMSPRINGGREENThe color medium spring green with an RGB value of #00FA9A.
+MEDIUMTURQUOISEThe color medium turquoise with an RGB value of #48D1CC.
+MEDIUMVIOLETREDThe color medium violet red with an RGB value of #C71585.
+MIDNIGHTBLUEThe color midnight blue with an RGB value of #191970.
+MINTCREAMThe color mint cream with an RGB value of #F5FFFA.
+MISTYROSEThe color misty rose with an RGB value of #FFE4E1.
+MOCCASINThe color moccasin with an RGB value of #FFE4B5.
+NAVAJOWHITEThe color navajo white with an RGB value of #FFDEAD.
+NAVYThe color navy with an RGB value of #000080.
+OLDLACEThe color old lace with an RGB value of #FDF5E6.
+OLIVEThe color olive with an RGB value of #808000.
+OLIVEDRABThe color olive drab with an RGB value of #6B8E23.
+ORANGEThe color orange with an RGB value of #FFA500.
+ORANGEREDThe color orange red with an RGB value of #FF4500.
+ORCHIDThe color orchid with an RGB value of #DA70D6.
+PALEGOLDENRODThe color pale goldenrod with an RGB value of #EEE8AA.
+PALEGREENThe color pale green with an RGB value of #98FB98.
+PALETURQUOISEThe color pale turquoise with an RGB value of #AFEEEE.
+PALEVIOLETREDThe color pale violet red with an RGB value of #DB7093.
+PAPAYAWHIPThe color papaya whip with an RGB value of #FFEFD5.
+PEACHPUFFThe color peach puff with an RGB value of #FFDAB9.
+PERUThe color peru with an RGB value of #CD853F.
+PINKThe color pink with an RGB value of #FFC0CB.
+PLUMThe color plum with an RGB value of #DDA0DD.
+POWDERBLUEThe color powder blue with an RGB value of #B0E0E6.
+PURPLEThe color purple with an RGB value of #800080.
+REDThe color red with an RGB value of #FF0000.
+ROSYBROWNThe color rosy brown with an RGB value of #BC8F8F.
+ROYALBLUEThe color royal blue with an RGB value of #4169E1.
+SADDLEBROWNThe color saddle brown with an RGB value of #8B4513.
+SALMONThe color salmon with an RGB value of #FA8072.
+SANDYBROWNThe color sandy brown with an RGB value of #F4A460.
+SEAGREENThe color sea green with an RGB value of #2E8B57.
+SEASHELLThe color sea shell with an RGB value of #FFF5EE.
+SIENNAThe color sienna with an RGB value of #A0522D.
+SILVERThe color silver with an RGB value of #C0C0C0.
+SKYBLUEThe color sky blue with an RGB value of #87CEEB.
+SLATEBLUEThe color slate blue with an RGB value of #6A5ACD.
+SLATEGRAYThe color slate gray with an RGB value of #708090.
+SLATEGREYThe color slate grey with an RGB value of #708090.
+SNOWThe color snow with an RGB value of #FFFAFA.
+SPRINGGREENThe color spring green with an RGB value of #00FF7F.
+STEELBLUEThe color steel blue with an RGB value of #4682B4.
+TANThe color tan with an RGB value of #D2B48C.
+TEALThe color teal with an RGB value of #008080.
+THISTLEThe color thistle with an RGB value of #D8BFD8.
+TOMATOThe color tomato with an RGB value of #FF6347.
+TURQUOISEThe color turquoise with an RGB value of #40E0D0.
+VIOLETThe color violet with an RGB value of #EE82EE.
+WHEATThe color wheat with an RGB value of #F5DEB3.
+WHITEThe color white with an RGB value of #FFFFFF.
+WHITESMOKEThe color white smoke with an RGB value of #F5F5F5.
+YELLOWThe color yellow with an RGB value of #FFFF00.
+YELLOWGREENThe color yellow green with an RGB value of #9ACD32.
